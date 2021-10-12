@@ -1,3 +1,5 @@
+> vim: set sw=4 sts=4 et fdm=marker:
+
 
 ## VR {{{1
 [Simula](https://github.com/SimulaVR/Simula)
